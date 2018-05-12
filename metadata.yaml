@@ -1,0 +1,39 @@
+_repo: The-Crow-s-Nest_31480
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 31480-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Day, Clarence
+    aliases:
+    - Day, Clarence, Jr.
+    - Day, Clarence Shepard
+    birthdate: 1874
+    deathdate: 1935
+    gutenberg_agent_id: '2236'
+    url: http://www.gutenberg.org/2009/agents/2236
+    wikipedia: http://en.wikipedia.org/wiki/Clarence_Day
+description: ''
+gutenberg_issued: '2010-03-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31480'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Essays'
+- !lcc 'PS'
+tableOfContents: The three tigers -- As they go riding by -- A man gets up in the
+  morning -- Odd countries -- On cows -- Stroom and Graith -- Legs vs. architects
+  -- To Phoebe -- Sex, religion and business -- An ode to trade -- Objections to reading
+  -- The enjoyment of gloom -- Buffoon fate -- The wrong lampman -- The seamy side
+  of Fabre -- In his baby blue ship -- The man who knew gods -- Improving the lives
+  of the rich -- From Noah to now -- Sic semper dissenters -- Humpty Dumpty and Adam
+  -- How it looks to a fish -- A hopeful old bigamist -- The revolt of capital --
+  Still reading away -- A wild Polish hero -- Mrs. P.'s side of it -- The death of
+  Logan -- Portrait of a lady -- Grandfather's three lives -- Story of a farmer.
+title: The Crow's Nest
+url: http://www.gutenberg.org/ebooks/31480
